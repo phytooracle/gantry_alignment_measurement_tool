@@ -1,7 +1,6 @@
 
-<img align='right' width='40%' src='https://github.com/phytooracle/gantry_alignment_measurement_tool/raw/main/docs/assets/screen.png'><br>
-<img align='right' width='40%' src='https://github.com/phytooracle/gantry_alignment_measurement_tool/raw/main/docs/assets/rose.png'>
-
+<img align='right' width='30%' src='https://github.com/phytooracle/gantry_alignment_measurement_tool/raw/main/docs/assets/screen.png'>
+<img align='right' width='30%' src='https://github.com/phytooracle/gantry_alignment_measurement_tool/raw/main/docs/assets/rose.png'><br>
 
 This is not a good example of how to write code.
 
