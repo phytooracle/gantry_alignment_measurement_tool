@@ -1,7 +1,13 @@
 
+<img align='right' width='50%' src='https://github.com/phytooracle/gantry_alignment_measurement_tool/docs/assets/rose.png'><br>
+<img align='right' width='50%' src='https://github.com/phytooracle/gantry_alignment_measurement_tool/docs/assets/screen.png'>
+
+
 This is not a good example of how to write code.
 
 # Overview
+
+This tool is used to measure how well the gantry returns to a known location. It was developed for use during testing of the gantry rewrite.
 
 These are the basic steps...
 
@@ -17,6 +23,8 @@ The Gui...
 #. Type `n` to proceed to the _next_ scan.
 #. If you get to the last image, it will save the results to `results.csv`.  It will overwrite this file if it exists.
 #. Type `k` to quit and save `results.csv` before reaching the end.  It will overwrite this file if it exists.
+
+Pro Tip: You can use the keyboard shortcut `o` to turn on the "zoom to rectangle" cursor (croshairs) and then zoom in on the image.  Then press `o` again to return to the regular pointer (arrow) to click the location.
 
 A few notes about the GUI...
 
