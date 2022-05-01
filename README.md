@@ -47,6 +47,7 @@ A few notes about the GUI...
 13. Edit the bash file `convert_bin_to_tiff.bash` so that it knows where your raw gantry data are
         - this boots having access to all of the data store so you allready have access to all data at /home/user/work/data/iplant/home/shared/phytooracle
 14. bash setup_vice.sh
+15. conda activate gantry
 
 
 
