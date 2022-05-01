@@ -1,3 +1,3 @@
-conda activate ./gantry_alignment_tool_env.yml
+conda env create -f ./gantry_alignment_tool_env.yml --force
 
 
